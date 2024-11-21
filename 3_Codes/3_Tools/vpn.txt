@@ -1,0 +1,4 @@
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHRVItcC5lbGVjdHJvbmljIiwKICAiYWRkIjogIjEwMy4xMy4yMTEuOTIiLAogICJwb3J0IjogMzU5MDksCiAgImlkIjogImYyOGRiNDNlLWM1MTAtNDIyNy04ZTg5LWU3NzQzZGI4YjRhNyIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
+
+
+vless://34edf104-0daf-40d3-8bba-a8a076ad6129@server.localnet.cfd:8088?encryption=none&security=none&type=ws&path=%2F#p.electronic
